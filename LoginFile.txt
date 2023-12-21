@@ -1,0 +1,5 @@
+fajar,1234,Customer
+Saim,1122,Admin
+Ali,5566,customer
+misha,3344,admin
+Maida,4444,Admin
